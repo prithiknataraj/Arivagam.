@@ -21,8 +21,8 @@ This project is a Flask-based educational platform that integrates user authenti
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/prithiknataraj/Arivagam..git
+   cd Arivagam.
    ```
 
 2. **Install Dependencies**:
